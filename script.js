@@ -9,7 +9,7 @@ toggleBtn.addEventListener("click", function () {
   //   sidebar.classList.add("show-sidebar");
   // }
   sidebar.classList.toggle("show-sidebar");
-  toggleBtn.classList.toggle('active');
+  // toggleBtn.classList.toggle('active');
 });
 
 closeBtn.addEventListener("click", function () {
